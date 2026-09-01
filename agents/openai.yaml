@@ -1,0 +1,6 @@
+interface:
+  display_name: "Jira to Spec"
+  short_description: "Draft approved Jira specifications"
+  default_prompt: "Use $jira-to-spec to draft a Jira specification from this conversation."
+policy:
+  allow_implicit_invocation: false
