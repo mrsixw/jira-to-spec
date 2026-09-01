@@ -1,7 +1,6 @@
 ---
 name: jira-to-spec
 description: Turn an agreed conversation or feature request into a Jira-ready specification using a project profile and an explicit approval gate.
-disable-model-invocation: true
 ---
 
 # Jira to Spec
